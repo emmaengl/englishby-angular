@@ -1,0 +1,14 @@
+[
+    {
+        "title": "About",
+        "url": "#about" 
+    },
+    {
+        "title": "Experience",
+        "url": "#experience" 
+    },
+    {
+        "title": "Contact",
+        "url": "#contact" 
+    }
+]
