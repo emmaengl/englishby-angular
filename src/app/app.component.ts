@@ -8,7 +8,5 @@ import Links from '../files/links.json'
 })
 
 export class AppComponent {
-  constructor() {
-    console.log(Links);
-  }
+  links = Links;
 }
